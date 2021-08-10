@@ -15,5 +15,4 @@ The system allows you to determine the minimum request RAM and vCPU for a pod wi
 Now this system is functioning (with some difficulties), but it is still in development.
 
 ## Scheme
-
-
+![scheme](https://user-images.githubusercontent.com/64182789/128856087-6f390ab4-1da9-4208-956f-c62475f3c74e.png)
